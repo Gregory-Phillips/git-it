@@ -33,3 +33,5 @@ In terminal, you can view the difference between the file now and how it was at 
 $ git diff
 
 Now with what you just learned above, commit this latest change.
+
+Here is the new change
